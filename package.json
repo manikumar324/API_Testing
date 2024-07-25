@@ -1,4 +1,5 @@
 {
+  "homepage": "https://manikumar324.github.io/API_Testing",
   "name": "api-testing",
   "version": "0.1.0",
   "private": true,
@@ -38,7 +39,6 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://manikumar324.github.io/API_Testing",
   "devDependencies": {
     "gh-pages": "^6.1.1"
   }
